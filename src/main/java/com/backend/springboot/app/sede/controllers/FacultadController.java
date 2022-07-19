@@ -16,7 +16,7 @@ import java.net.MalformedURLException;
 import java.util.HashMap;
 import java.util.Map;
 
-@CrossOrigin(origins = { "http://localhost:4200" })
+@CrossOrigin(origins = { "https://ayllusinchi-app.azurewebsites.net" })
 @RestController
 public class FacultadController {
 
